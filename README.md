@@ -204,6 +204,6 @@ prometheus
 
 Результат
 
-![image](https://github.com/user-attachments/assets/884f9fde-a8f6-49a2-9199-2ef67ea7baa6)
-![image](https://github.com/user-attachments/assets/ba5ddb49-c85d-4567-a1c9-0c43689d6b7c)
+![image](https://github.com/user-attachments/assets/c874f42c-ad86-43c7-85cf-e8e0eff8f215)
+
 
