@@ -158,3 +158,44 @@ ________________________________________
 
 ![image](https://github.com/user-attachments/assets/0b531433-e7a2-4940-9466-9207b4e1cc7f)
 
+Меняю с помощью vim файл docker-compose.yaml. Добавляю node-exporter
+
+![image](https://github.com/user-attachments/assets/3803c2bf-6e16-453a-9f28-360f267888fe)
+
+![image](https://github.com/user-attachments/assets/5b356788-130e-40e3-860a-0fe93c3d3df9)
+
+
+
+![image](https://github.com/user-attachments/assets/c42b8265-44de-40b6-8b48-771bf2b82720)
+
+
+Ввожу admin admin и попадаю в графану
+
+![image](https://github.com/user-attachments/assets/ca087021-bdd9-4ccb-b9d5-3d4b7dece0da)
+
+Создаю dashboard
+
+![image](https://github.com/user-attachments/assets/881e7c34-50b0-4300-8ee7-d940d1c6d746)
+
+configure a new data source
+
+![image](https://github.com/user-attachments/assets/f58cdb3d-0bee-40d1-a6ae-d946dba070c6)
+
+
+prometheus
+
+![image](https://github.com/user-attachments/assets/2805ff2b-8675-4abb-9a87-8ec5c0b82cd6)
+
+![image](https://github.com/user-attachments/assets/30c9bdaf-4c09-4f77-9f9a-12189f309e0c)
+
+![image](https://github.com/user-attachments/assets/68af875a-a05b-40ac-aa03-5c35feb229c0)
+
+![image](https://github.com/user-attachments/assets/f2045bbf-2f0c-4c7a-b2f3-b38a47324f9a)
+
+![image](https://github.com/user-attachments/assets/dd4dc29b-f0de-4193-b78c-ec0ef162e0df)
+
+![image](https://github.com/user-attachments/assets/804f2e0b-6905-4e2e-abeb-80b27dec03c4)
+
+![image](https://github.com/user-attachments/assets/884f9fde-a8f6-49a2-9199-2ef67ea7baa6)
+![image](https://github.com/user-attachments/assets/ba5ddb49-c85d-4567-a1c9-0c43689d6b7c)
+
