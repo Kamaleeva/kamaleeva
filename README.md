@@ -188,13 +188,21 @@ prometheus
 
 ![image](https://github.com/user-attachments/assets/30c9bdaf-4c09-4f77-9f9a-12189f309e0c)
 
+Создаю соединение
+
 ![image](https://github.com/user-attachments/assets/68af875a-a05b-40ac-aa03-5c35feb229c0)
+
+Потом тестирую и всё хорошо
 
 ![image](https://github.com/user-attachments/assets/f2045bbf-2f0c-4c7a-b2f3-b38a47324f9a)
 
 ![image](https://github.com/user-attachments/assets/dd4dc29b-f0de-4193-b78c-ec0ef162e0df)
 
+Импортирую 1860
+
 ![image](https://github.com/user-attachments/assets/804f2e0b-6905-4e2e-abeb-80b27dec03c4)
+
+Результат
 
 ![image](https://github.com/user-attachments/assets/884f9fde-a8f6-49a2-9199-2ef67ea7baa6)
 ![image](https://github.com/user-attachments/assets/ba5ddb49-c85d-4567-a1c9-0c43689d6b7c)
