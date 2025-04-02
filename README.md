@@ -207,3 +207,37 @@ prometheus
 ![image](https://github.com/user-attachments/assets/c874f42c-ad86-43c7-85cf-e8e0eff8f215)
 
 
+VICTORIA METRICS
+
+Я зашла в графану и сделала копию прометиуса в соединениях. Ввела туда данные графаны
+
+![image](https://github.com/user-attachments/assets/ea68dbbf-eac0-44bf-b44c-bd4ad32417d4)
+
+Выбираю режим кода и вставляю параметр запроса метрик1. Снизу видно, что всё успешно
+
+![image](https://github.com/user-attachments/assets/d9c379a1-d3bc-4147-904f-64b3d6d3381b)
+
+Дальше ввожу команды:
+
+Первая команда:
+
+
+`echo -e "# TYPE OILCOINT_metric1 gauge\nOILCOINT_metric1 32" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus`
+Она отправляет метрику OILCOINT_metric1 с типом gauge и значением 32 на локальный сервер Prometheus через HTTP POST.
+
+Вторая команда:
+
+
+`curl -G 'http://localhost:8428/api/v1/query' --data-urlencode 'query=OILCOINT_metric1'`
+Она делает запрос к API Prometheus для получения значения метрики OILCOINT_metric1 методом GET.
+
+![image](https://github.com/user-attachments/assets/5d746a21-c202-4bc8-93c8-7f7a39fdf47e)
+
+Дальше захожу в графану, создаю дэшборд и вижу результат
+
+![image](https://github.com/user-attachments/assets/5f027d92-35bd-458a-8b65-bc955600d1de)
+
+И также в викторию. вводя везде мой параметр метрик1
+
+![image](https://github.com/user-attachments/assets/c3ce80d3-58e8-451b-b7a3-fd9213447694)
+
